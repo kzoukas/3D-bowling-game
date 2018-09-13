@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: e7b2a7ea299015e4db4f407cdb15c5e9
+timeCreated: 1494966020
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Monad_Chair_200
+    100004: Monad_Chair_201
+    100006: Monad_Chair_202
+    100008: Monad_Chair_203
+    100010: Monad_Chair_204
+    100012: Monad_Chair_205
+    100014: Monad_Chair_206
+    100016: Monad_Chair_207
+    100018: Monad_Chair_208
+    100020: Monad_Chair_209
+    400000: //RootNode
+    400002: Monad_Chair_200
+    400004: Monad_Chair_201
+    400006: Monad_Chair_202
+    400008: Monad_Chair_203
+    400010: Monad_Chair_204
+    400012: Monad_Chair_205
+    400014: Monad_Chair_206
+    400016: Monad_Chair_207
+    400018: Monad_Chair_208
+    400020: Monad_Chair_209
+    2300000: Monad_Chair_200
+    2300002: Monad_Chair_201
+    2300004: Monad_Chair_202
+    2300006: Monad_Chair_203
+    2300008: Monad_Chair_204
+    2300010: Monad_Chair_205
+    2300012: Monad_Chair_206
+    2300014: Monad_Chair_207
+    2300016: Monad_Chair_208
+    2300018: Monad_Chair_209
+    3300000: Monad_Chair_200
+    3300002: Monad_Chair_201
+    3300004: Monad_Chair_202
+    3300006: Monad_Chair_203
+    3300008: Monad_Chair_204
+    3300010: Monad_Chair_205
+    3300012: Monad_Chair_206
+    3300014: Monad_Chair_207
+    3300016: Monad_Chair_208
+    3300018: Monad_Chair_209
+    4300000: Monad_Chair_200
+    4300002: Monad_Chair_201
+    4300004: Monad_Chair_202
+    4300006: Monad_Chair_203
+    4300008: Monad_Chair_204
+    4300010: Monad_Chair_205
+    4300012: Monad_Chair_206
+    4300014: Monad_Chair_207
+    4300016: Monad_Chair_208
+    4300018: Monad_Chair_209
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
